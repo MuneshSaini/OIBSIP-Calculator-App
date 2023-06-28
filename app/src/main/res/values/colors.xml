@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="lightgray">#D3D3D3</color>
+    <color name="charcol">	#36454F</color>
+    <color name="ravan">#050301</color>
+    <color name="gray">#555555</color>
+    <color name="HEX">#581845</color>
+</resources>
